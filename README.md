@@ -8,7 +8,6 @@ English is default language in my case!
     < add key="language" value="en"/ >
     < ... >
   < /appSettings >
-    < /code >
 
 Add LanguageChanger.cs class to your project and you are ready to go!
 
